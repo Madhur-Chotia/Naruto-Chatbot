@@ -106,7 +106,7 @@ question_embeddings = model.encode(df['qs'].values.tolist())
 def get_most_similar_question(user_input):
     user_input_embedding = model.encode([user_input])
     similarities = cosine_similarity(user_input_embedding, question_embeddings)[0]
-    if max(similarities)<0.25:
+    if max(similarities)<0.5:
         return "Hey, there is some language problem, I couldn't understand, I am still in learning phase. I'll ask Lord Seventh to help me understand more about this."
     else:
         most_similar_index = similarities.argmax()
