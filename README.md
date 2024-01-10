@@ -19,9 +19,9 @@ The source code, available in both .ipynb and .py formats, extracts information 
 - The application is built in both .ipynb and .py format
 - To start the application and experience it seamlessly, install all required libraries as mentioned in requirements.txt.
   Use this code to install all the required libraries - <pip3 install -r requirements.txt>
-- To run using .py file, after installing required libraries just type <python main.py>
+- To run using .py file, after installing required libraries just type <python main.py>.
 
 Check out the repository, explore the code, and feel free to reach out with any questions or suggestions!🍥 
-And I'll see you in the next one, Dattebayo! 👊
+If you liked the work please star this repo, follow me and I'll see you in the next one, Dattebayo! 👊
 
 #Naruto #Chatbot #BERT #BERTmodel
