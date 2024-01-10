@@ -22,6 +22,7 @@ The source code, available in both .ipynb and .py formats, extracts information 
 - To run using .py file, after installing required libraries just type <python main.py>.
 
 Check out the repository, explore the code, and feel free to reach out with any questions or suggestions!🍥 
-If you liked the work please star this repo, follow me and I'll see you in the next one, Dattebayo! 👊
+
+If you liked this work please star this repo, follow me and I'll see you in the next one, Dattebayo! 👊
 
 #Naruto #Chatbot #BERT #BERTmodel
